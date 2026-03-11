@@ -2,7 +2,7 @@
 
 <h3 align="center"> Aspiring Java Developer </h3>
 
-🎓 I'm a Computer Science student at **National University**, passionate about building interactive, user-friendly programs and exploring how technical logic connects to real-world experiences.
+<p align="center">🎓 I'm a Computer Science student at **National University**, passionate about building interactive, user-friendly programs and exploring how technical logic connects to real-world experiences. </p>
 
 ### Languages and Tools:
 
