@@ -1,6 +1,6 @@
-# Hi, I'm Julliana👋
+<h1 align="center"> Hi, I'm Julliana👋 </h1>
 
-### Aspiring Java Developer
+<h3 align="center"> Aspiring Java Developer </h3>
 
 🎓 I'm a Computer Science student at **National University**, passionate about building interactive, user-friendly programs and exploring how technical logic connects to real-world experiences.
 
