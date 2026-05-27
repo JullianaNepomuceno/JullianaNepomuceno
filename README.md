@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-💡 I’m knowledgeable in <b>Java</b>, <b>PostgreSQL</b>, <b>React</b>, and <b>TypeScript</b>, with a growing interest in <b>software engineering design patterns</b>, clean architecture, and full stack development.
+💡 I’m knowledgeable in <b>Java</b>, <b>Spring Boot</b>, <b>PostgreSQL</b>, <b>React</b>, and <b>TypeScript</b>, with a growing interest in <b>software engineering design patterns</b>, clean architecture, and full stack development.
 </p>
 
 <h4 align="center"> Languages and Tools: </h4>
@@ -15,6 +15,10 @@
 <p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
 </a>
 
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
@@ -57,10 +61,11 @@
 ---
 
 ## 🔧 Skills & Interests
-- 💻 Full stack development using Java, React, TypeScript, and PostgreSQL  
+- 💻 Full stack development using Java, Spring Boot, React, TypeScript, and PostgreSQL  
 - 🏗️ Applying software engineering design patterns and clean coding practices  
 - 🛠️ Designing modular, scalable, and maintainable applications  
 - 🌐 Building responsive and user-friendly web experiences  
+- 🔗 Developing RESTful APIs and backend systems with Spring Boot  
 - 🤝 Bridging creativity with technical problem-solving  
 
 ---
@@ -70,6 +75,7 @@
 - 🧩 Software architecture and object-oriented design principles  
 - ⚡ Modern frontend development with React and TypeScript ecosystem tools  
 - 📦 Database optimization and efficient data management with PostgreSQL  
+- ☁️ Best practices for scalable full stack application development  
 
 ---
 
