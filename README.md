@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-💡 I’m knowledgeable in <b>Java</b>, <b>Spring Boot</b>, <b>PostgreSQL</b>, <b>React</b>, and <b>TypeScript</b>, with a growing interest in <b>software engineering design patterns</b>, clean architecture, and full stack development.
+💡 I’m knowledgeable in <b>Java</b>, <b>Spring Boot</b>, <b>PostgreSQL</b>, <b>React</b>, and <b>TypeScript</b>, with a growing interest in <b>software engineering design patterns</b>, clean architecture, cloud technologies, and full stack development.
 </p>
 
 <h4 align="center"> Languages and Tools: </h4>
@@ -31,6 +31,10 @@
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -66,6 +70,7 @@
 - 🛠️ Designing modular, scalable, and maintainable applications  
 - 🌐 Building responsive and user-friendly web experiences  
 - 🔗 Developing RESTful APIs and backend systems with Spring Boot  
+- ☁️ Exploring cloud technologies and deployment workflows with AWS  
 - 🤝 Bridging creativity with technical problem-solving  
 
 ---
@@ -75,7 +80,8 @@
 - 🧩 Software architecture and object-oriented design principles  
 - ⚡ Modern frontend development with React and TypeScript ecosystem tools  
 - 📦 Database optimization and efficient data management with PostgreSQL  
-- ☁️ Best practices for scalable full stack application development  
+- ☁️ AWS cloud fundamentals and scalable deployment practices  
+- 🌐 Best practices for scalable full stack application development  
 
 ---
 
