@@ -1,24 +1,24 @@
-<h1 align="center"> Hi, I'm Julliana👋 </h1>
+<h1 align="center"> Hi, I'm Julliana 👋 </h1>
 
-<h3 align="center"> Aspiring Backend Web Developer </h3>
+<h3 align="center"> Aspiring Full Stack Developer </h3>
 
 <p align="center">
-🎓 I'm a Computer Science student at <b>National University</b>, passionate about building reliable, scalable web applications and exploring how server-side logic, databases, and APIs power real-world products.
+🎓 I'm a Computer Science student at <b>National University</b>, passionate about building functional, scalable, and user-friendly web applications. I enjoy working across frontend and backend development, exploring how different technologies come together to create modern web experiences.
 </p>
 
 <p align="center">
-💡 I’m knowledgeable in <b>PHP</b>, <b>MySQL</b>, <b>PostgreSQL</b>, <b>JavaScript</b>, and <b>REST APIs</b>, with a growing interest in <b>backend architecture</b>, clean code, software design patterns, and cloud deployment.
+💡 I work with <b>Python</b>, <b>Django</b>, <b>PostgreSQL</b>, <b>JavaScript</b>, <b>TypeScript</b>, and <b>React</b>, with a growing interest in <b>REST APIs</b>, backend architecture, software design patterns, and cloud deployment.
 </p>
 
 <h4 align="center"> Languages and Tools: </h4>
 
 <p align="center">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
@@ -45,51 +45,54 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</a>
+
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </a>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
 </p>
 
 ---
 
 ## 🔧 Skills & Interests
-- 🐘 Backend web development with PHP and MySQL  
-- 🔗 Building RESTful APIs and server-side application logic  
-- 🗄️ Relational database design, schema modeling, and query writing  
-- 🔐 Authentication, session handling, and secure form processing  
-- 🏗️ Applying clean coding practices and design patterns to modular, maintainable backends  
-- 🌐 Connecting backends to responsive frontends with JavaScript, React, and TypeScript  
-- ☁️ Exploring cloud technologies and deployment workflows with AWS  
+- 🐍 Backend development using Python and Django
+- ⚛️ Frontend development using React, JavaScript, and TypeScript
+- 🔗 Building and integrating RESTful APIs
+- 🗄️ Relational database design and management with PostgreSQL
+- 🎨 Creating responsive and user-friendly interfaces with HTML and CSS
+- 🏗️ Applying object-oriented programming, clean code, and software design patterns
+- 🔄 Version control and collaborative development using Git and GitHub
+- ☁️ Exploring cloud technologies and deployment workflows with AWS
 
 ---
 
 ## 🌱 Currently Learning
-- 🚀 Advanced PHP and backend architecture  
-- 🧩 MVC structure and object-oriented design in PHP  
-- 🔗 REST API design, validation, and error handling  
-- 📦 Database optimization and efficient data management with MySQL and PostgreSQL  
-- 🛡️ Web application security fundamentals  
-- ☁️ AWS cloud fundamentals and scalable deployment practices  
+- 🐍 Python and Django for backend development
+- ⚛️ React and TypeScript for frontend development
+- 🔗 REST API development, integration, and error handling
+- 🗄️ Database management and optimization with PostgreSQL
+- 🏗️ Full stack architecture and software design patterns
+- 🛡️ Web application security fundamentals
+- ☁️ AWS cloud fundamentals and deployment practices
 
 ---
 
 ## 🎯 Goals
-- 🏗️ Become a skilled backend web developer  
-- 🤝 Contribute to impactful open-source and collaborative projects  
-- 📈 Continuously improve my development workflow and coding standards  
-- 💡 Build web applications that are secure, robust, and meaningful to users  
+- 🚀 Become a skilled Full Stack Developer
+- 🏗️ Build scalable, secure, and maintainable web applications
+- 🤝 Contribute to meaningful open-source and collaborative projects
+- 📈 Continuously improve my development skills and coding practices
+- 💡 Create practical applications that solve real-world problems
 
 ---
 
